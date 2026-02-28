@@ -1,5 +1,5 @@
 print('hello world')
 print (3*3)
-#print (4*1)
+print (4*1)
 print (3+3)
 print (2-3)

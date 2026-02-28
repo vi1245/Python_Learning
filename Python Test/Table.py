@@ -6,4 +6,5 @@ print(f"{table_test}*2={table_test*2}")
 print(f"{table_test}*3={table_test*3}")
 print(f"{table_test}*4={table_test*4}")
 print(f"{table_test}*5={table_test*5}")
-print(f"{table_test}*8={table_test*8}")
+print(f"{table_test}*8={table_test*7}")
+
